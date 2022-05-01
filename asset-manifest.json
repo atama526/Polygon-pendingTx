@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Polygon-pendingTx/static/css/main.d76e3a60.css",
+    "main.js": "/Polygon-pendingTx/static/js/main.222e5e42.js",
+    "static/js/787.345e0b3c.chunk.js": "/Polygon-pendingTx/static/js/787.345e0b3c.chunk.js",
+    "index.html": "/Polygon-pendingTx/index.html",
+    "main.d76e3a60.css.map": "/Polygon-pendingTx/static/css/main.d76e3a60.css.map",
+    "main.222e5e42.js.map": "/Polygon-pendingTx/static/js/main.222e5e42.js.map",
+    "787.345e0b3c.chunk.js.map": "/Polygon-pendingTx/static/js/787.345e0b3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d76e3a60.css",
+    "static/js/main.222e5e42.js"
+  ]
+}
