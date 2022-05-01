@@ -3,7 +3,7 @@
 App that retrieves pending transactions from the EVM mempool and displays them to the user.
 Open https://atama526.github.io/Polygon-pendingTx/ to view it in your browser.
 
-(./public/Image.PNG)
+![Algorithm schema](./public/Image.PNG)
 
 ## How it works?
 
