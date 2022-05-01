@@ -13,6 +13,8 @@ Using a WebSocket connection to a node and the following method in the web3.js l
 
 Get a quick free node endpoint (HTTPS/WSS) to use the app by signing up with Chainstack https://console.chainstack.com/user/account/create and selecting the free Developer plan.
 You can also use the example wws node point that is provided in the application ( wss://ws-nd-214-862-598.p2pify.com/4ae723430a82c489e6a50607b4e8110a)
+- Write the correct WSS endpoint and press enter.
+- The latest block and latest pending transactions (in an interval of 6 seconds) will be displayed. 
  
 ### Dependencies
 
