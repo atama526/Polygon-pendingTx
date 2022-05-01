@@ -10,12 +10,13 @@ Using a WebSocket connection to a node and the following method in the web3.js l
 ### How to use it? 
 
 Get a quick free node endpoint (HTTPS/WSS) to use the app by signing up with Chainstack https://console.chainstack.com/user/account/create and selecting the free Developer plan.
+You can also use the example wws node point that is provided in the application ( wss://ws-nd-214-862-598.p2pify.com/4ae723430a82c489e6a50607b4e8110a)
  
 ### Dependencies
 
 This project used the following technologies: 
 
-Project bootstraped with: Create React App: https://github.com/facebook/create-react-app
+Project bootstraped with: Create-React-App https://github.com/facebook/create-react-app
 NPM: https://nodejs.org
 Working polygon node: https://chainstack.com
 
