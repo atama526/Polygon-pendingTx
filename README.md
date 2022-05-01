@@ -1,7 +1,9 @@
 # See the Polygon test network latest pending transactions
 
 App that retrieves pending transactions from the EVM mempool and displays them to the user.
-Open https://atama526.github.io/Polygon-pendingTx/ to view it in your browser
+Open https://atama526.github.io/Polygon-pendingTx/ to view it in your browser.
+
+(./public/Image.PNG)
 
 ## How it works?
 
@@ -16,11 +18,9 @@ You can also use the example wws node point that is provided in the application 
 
 This project used the following technologies: 
 
-Project bootstraped with: Create-React-App https://github.com/facebook/create-react-app
-
-NPM: https://nodejs.org
-
-Working polygon node: https://chainstack.com
+- Project bootstraped with: Create-React-App https://github.com/facebook/create-react-app
+- NPM: https://nodejs.org
+- Working polygon node: https://chainstack.com
 
 
 ### Step 1. Clone the project
