@@ -17,7 +17,9 @@ You can also use the example wws node point that is provided in the application 
 This project used the following technologies: 
 
 Project bootstraped with: Create-React-App https://github.com/facebook/create-react-app
+
 NPM: https://nodejs.org
+
 Working polygon node: https://chainstack.com
 
 
