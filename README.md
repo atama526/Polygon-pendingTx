@@ -28,7 +28,7 @@ This project used the following technologies:
 
 ### Step 2. Install dependencies
 ```
-$ cd pendingTx
+$ cd Polygon-pendingTx
 $ npm install
 ```
 ### Step 3. Use the App
